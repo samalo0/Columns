@@ -1,3 +1,3 @@
 # Prototype
 
-Developed with Unreal Engine 4
+This is a prototype game I made when first learning Unreal Engine C++, based on the Sega arcade game, Columns.
